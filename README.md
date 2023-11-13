@@ -1,1 +1,1 @@
-# langchain-embeding-vectorstore
+# langchain-embeding-vectorstore-search
